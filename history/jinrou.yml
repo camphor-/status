@@ -1,7 +1,7 @@
-- url: https://jinrou.camph.net
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-10-23T14:18:11.000Z
+- url: http://jinrou.camph.net
+- status: up
+- code: 200
+- responseTime: 373
+- lastUpdated: 2020-10-23T14:29:23.187Z
 - startTime: 2020-10-23T14:15:31.606Z
 - generator: Upptime <https://github.com/upptime/upptime>
