@@ -29,6 +29,10 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 | [Relaym API Prod](https://relaym-api.camph.net/api/v3/sessions/06b7db29-b1d7-4ae7-bfdf-ddaf0f4274c3) | 🟩 Up | [relaym-api-prod.yml](https://github.com/camphor-/status/commits/master/history/relaym-api-prod.yml) | <img alt="Response time graph" src="./graphs/relaym-api-prod.png" height="20"> 740ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcamphor-%2Fstatus%2Fmaster%2Fapi%2Frelaym-api-prod%2Fuptime.json)
 <!--end: status pages-->
 
+## For Admin
+
+https://camphor.esa.io/posts/195
+
 ## ⭐ How it works
 
 - GitHub Actions is used as an uptime monitor
