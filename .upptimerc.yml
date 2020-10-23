@@ -10,8 +10,6 @@ sites:
     url: https://account.camph.net
   - name: Advent
     url: https://advent.camph.net
-  - name: API
-    url: https://api.camph.net
   - name: Blog
     url: https://blog.camph.net
   - name: TechBlog
@@ -19,24 +17,19 @@ sites:
   - name: Calendar
     url: https://cal.camph.net
   - name: Feeds
-    url: https://feeds.camph.net
+    url: https://feeds.camph.net/public/feeds.json
   - name: House
     url: https://house.camph.net
-  - name: ISPJ
-    url: https://ipsj.camph.net
+  - name: IPSJ
+    url: http://ipsj.camph.net/
   - name: Jinrou
-    url: https://jinrou.camph.net    
+    url: http://jinrou.camph.net    
   - name: Python Tutorial
-    url: https://python-tutorial.camph.net
-  - name: Registry
-    url: https://registry.camph.net
+    url: http://python-tutorial.camph.net
   - name: Relaym API Prod
-    url: https://relaym-api.camph.net
-notifications:
-  - type: slack
-    channel: C016QTU9S9Y
+    url: https://relaym-api.camph.net/api/v3/sessions/06b7db29-b1d7-4ae7-bfdf-ddaf0f4274c3
 assignees:
-  - AnandChowdhary
+  - camphor-/root
 status-website:
   cname: status.camph.net
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
