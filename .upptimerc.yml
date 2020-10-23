@@ -32,7 +32,7 @@ notifications:
   - type: slack
     channel: C016QTU9S9Y
 assignees:
-  - AnandChowdhary
+  - camphor-/root
 status-website:
   cname: status.camph.net
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
