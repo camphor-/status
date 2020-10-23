@@ -1,7 +1,7 @@
-- url: https://python-tutorial.camph.net
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-10-23T14:18:14.114Z
+- url: http://python-tutorial.camph.net
+- status: up
+- code: 200
+- responseTime: 858
+- lastUpdated: 2020-10-23T14:29:26.106Z
 - startTime: 2020-10-23T14:15:34.507Z
 - generator: Upptime <https://github.com/upptime/upptime>
