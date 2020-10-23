@@ -22,5 +22,5 @@ jobs:
         with:
           command: "update"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
           SLACK_APP_ACCESS_TOKEN: ${{ secrets.SLACK_APP_ACCESS_TOKEN }}

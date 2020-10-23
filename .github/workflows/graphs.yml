@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
@@ -29,7 +29,7 @@ jobs:
       - name: Update graphs
         run: npx @upptime/graphs
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
           SECRET_SITE: ${{ secrets.SECRET_SITE }}
       - name: Commit new data
         uses: stefanzweifel/git-auto-commit-action@v4.1.1

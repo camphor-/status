@@ -25,16 +25,16 @@ jobs:
         with:
           command: "response-time"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
           SLACK_APP_ACCESS_TOKEN: ${{ secrets.SLACK_APP_ACCESS_TOKEN }}
       - name: Update response time
         uses: upptime/uptime-monitor@master
         with:
           command: "readme"
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
       - name: Generate graphs
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: Graphs CI
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
