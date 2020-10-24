@@ -5,7 +5,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 1055
+    "time": 1059
   },
   {
     "name": "Books",
@@ -13,7 +13,7 @@
     "slug": "books",
     "status": "up",
     "uptime": "100.00",
-    "time": 699
+    "time": 703
   },
   {
     "name": "Account",
@@ -21,7 +21,7 @@
     "slug": "account",
     "status": "up",
     "uptime": "100.00",
-    "time": 692
+    "time": 694
   },
   {
     "name": "Advent",
@@ -29,7 +29,7 @@
     "slug": "advent",
     "status": "up",
     "uptime": "100.00",
-    "time": 1027
+    "time": 1028
   },
   {
     "name": "Blog",
@@ -37,7 +37,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 1602
+    "time": 1582
   },
   {
     "name": "TechBlog",
@@ -45,7 +45,7 @@
     "slug": "tech-blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 1482
+    "time": 1466
   },
   {
     "name": "Calendar",
@@ -53,7 +53,7 @@
     "slug": "calendar",
     "status": "up",
     "uptime": "100.00",
-    "time": 686
+    "time": 688
   },
   {
     "name": "Feeds",
@@ -61,7 +61,7 @@
     "slug": "feeds",
     "status": "up",
     "uptime": "100.00",
-    "time": 819
+    "time": 823
   },
   {
     "name": "House",
@@ -69,7 +69,7 @@
     "slug": "house",
     "status": "up",
     "uptime": "100.00",
-    "time": 685
+    "time": 686
   },
   {
     "name": "IPSJ",
@@ -85,7 +85,7 @@
     "slug": "jinrou",
     "status": "up",
     "uptime": "100.00",
-    "time": 294
+    "time": 298
   },
   {
     "name": "Python Tutorial",
@@ -93,7 +93,7 @@
     "slug": "python-tutorial",
     "status": "up",
     "uptime": "100.00",
-    "time": 793
+    "time": 798
   },
   {
     "name": "Relaym API Prod",
@@ -101,14 +101,14 @@
     "slug": "relaym-api-prod",
     "status": "up",
     "uptime": "100.00",
-    "time": 790
+    "time": 788
   },
   {
     "name": "Registry (Internal)",
     "url": "$REGISTRY",
     "slug": "registry-internal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 349
+    "time": 468
   }
 ]
