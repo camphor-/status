@@ -1,8 +1,7 @@
 - url: $REGISTRY
 - status: up
 - code: 200
-
-- responseTime: 707
-- lastUpdated: 2020-10-24T05:02:38.531Z
+- responseTime: 719
+- lastUpdated: 2020-10-24T05:04:08.138Z
 - startTime: 2020-10-23T16:46:54.539Z
 - generator: Upptime <https://github.com/upptime/upptime>
