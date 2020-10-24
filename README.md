@@ -8,7 +8,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
+## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟨 Partial outage**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
@@ -26,7 +26,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 | [Jinrou](http://jinrou.camph.net) | 🟩 Up | [jinrou.yml](https://github.com/camphor-/status/commits/master/history/jinrou.yml) | <img alt="Response time graph" src="./graphs/jinrou.png" height="20"> 302ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcamphor-%2Fstatus%2Fmaster%2Fapi%2Fjinrou%2Fuptime.json)
 | [Python Tutorial](http://python-tutorial.camph.net) | 🟩 Up | [python-tutorial.yml](https://github.com/camphor-/status/commits/master/history/python-tutorial.yml) | <img alt="Response time graph" src="./graphs/python-tutorial.png" height="20"> 814ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcamphor-%2Fstatus%2Fmaster%2Fapi%2Fpython-tutorial%2Fuptime.json)
 | [Relaym API Prod](https://relaym-api.camph.net/api/v3/sessions/06b7db29-b1d7-4ae7-bfdf-ddaf0f4274c3) | 🟩 Up | [relaym-api-prod.yml](https://github.com/camphor-/status/commits/master/history/relaym-api-prod.yml) | <img alt="Response time graph" src="./graphs/relaym-api-prod.png" height="20"> 787ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcamphor-%2Fstatus%2Fmaster%2Fapi%2Frelaym-api-prod%2Fuptime.json)
-| Registry (Internal) | 🟩 Up | [registry-internal.yml](https://github.com/camphor-/status/commits/master/history/registry-internal.yml) | <img alt="Response time graph" src="./graphs/registry-internal.png" height="20"> 354ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcamphor-%2Fstatus%2Fmaster%2Fapi%2Fregistry-internal%2Fuptime.json)
+| Registry (Internal) | 🟥 Down | [registry-internal.yml](https://github.com/camphor-/status/commits/master/history/registry-internal.yml) | <img alt="Response time graph" src="./graphs/registry-internal.png" height="20"> 303ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcamphor-%2Fstatus%2Fmaster%2Fapi%2Fregistry-internal%2Fuptime.json)
 <!--end: status pages-->
 
 ## For Admin
