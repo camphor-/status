@@ -13,7 +13,7 @@
     "slug": "books",
     "status": "up",
     "uptime": "100.00",
-    "time": 703
+    "time": 706
   },
   {
     "name": "Account",
@@ -21,7 +21,7 @@
     "slug": "account",
     "status": "up",
     "uptime": "100.00",
-    "time": 694
+    "time": 697
   },
   {
     "name": "Advent",
@@ -29,7 +29,7 @@
     "slug": "advent",
     "status": "up",
     "uptime": "100.00",
-    "time": 1028
+    "time": 1032
   },
   {
     "name": "Blog",
@@ -37,7 +37,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 1582
+    "time": 1564
   },
   {
     "name": "TechBlog",
@@ -45,7 +45,7 @@
     "slug": "tech-blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 1466
+    "time": 1456
   },
   {
     "name": "Calendar",
@@ -61,7 +61,7 @@
     "slug": "feeds",
     "status": "up",
     "uptime": "100.00",
-    "time": 823
+    "time": 829
   },
   {
     "name": "House",
@@ -69,7 +69,7 @@
     "slug": "house",
     "status": "up",
     "uptime": "100.00",
-    "time": 686
+    "time": 687
   },
   {
     "name": "IPSJ",
@@ -85,7 +85,7 @@
     "slug": "jinrou",
     "status": "up",
     "uptime": "100.00",
-    "time": 298
+    "time": 302
   },
   {
     "name": "Python Tutorial",
@@ -93,7 +93,7 @@
     "slug": "python-tutorial",
     "status": "up",
     "uptime": "100.00",
-    "time": 798
+    "time": 814
   },
   {
     "name": "Relaym API Prod",
@@ -101,7 +101,7 @@
     "slug": "relaym-api-prod",
     "status": "up",
     "uptime": "100.00",
-    "time": 788
+    "time": 787
   },
   {
     "name": "Registry (Internal)",
@@ -109,6 +109,6 @@
     "slug": "registry-internal",
     "status": "up",
     "uptime": "100.00",
-    "time": 468
+    "time": 354
   }
 ]
