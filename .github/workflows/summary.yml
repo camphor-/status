@@ -25,4 +25,4 @@ jobs:
           command: "readme"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          REGISTRY: ${{ secrets.REGISTRY }}
+          SECRET_SITE: ${{ secrets.SECRET_SITE }}
