@@ -107,8 +107,8 @@
     "name": "Registry (Internal)",
     "url": "$REGISTRY",
     "slug": "registry-internal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 354
+    "time": 303
   }
 ]
