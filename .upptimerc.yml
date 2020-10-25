@@ -36,5 +36,5 @@ status-website:
   cname: status.camph.net
   logoUrl: https://raw.githubusercontent.com/camphor-/status/master/camphor_logo.svg
   name: CAMPHOR- Status
-  introTitle: "**CAMPHOR- Status** はCAMPHOR-が運営しているサービスの状態をチェックしています。"
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "**CAMPHOR- Status** ではCAMPHOR-が運営しているサービスの状態をチェックしています。"
+  introMessage: 
