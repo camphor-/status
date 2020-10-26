@@ -38,3 +38,6 @@ status-website:
   name: CAMPHOR- Status
   introTitle: "**CAMPHOR- Status** ではCAMPHOR-が運営しているサービスの状態をチェックしています。"
   introMessage: 
+notifications:
+  - type: slack
+    channel: G09SJGGF3 # root チャンネル
