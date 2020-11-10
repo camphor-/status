@@ -107,8 +107,8 @@
     "name": "Registry (Internal)",
     "url": "$SECRET_SITE",
     "slug": "registry-internal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 430
+    "time": 433
   }
 ]
