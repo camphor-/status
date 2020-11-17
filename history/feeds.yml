@@ -1,7 +1,7 @@
 - url: https://feeds.camph.net/public/feeds.json
 - status: up
 - code: 200
-- responseTime: 868
-- lastUpdated: 2020-11-17T04:35:44.041Z
+- responseTime: 802
+- lastUpdated: 2020-11-17T23:11:22.085Z
 - startTime: 2020-10-23T14:15:23.580Z
 - generator: Upptime <https://github.com/upptime/upptime>
