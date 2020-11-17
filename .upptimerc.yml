@@ -30,10 +30,12 @@ sites:
     url: https://relaym-api.camph.net/api/v3/sessions/06b7db29-b1d7-4ae7-bfdf-ddaf0f4274c3
   - name: Registry (Internal)
     url: $SECRET_SITE
+assignees:
 status-website:
   cname: status.camph.net
   logoUrl: https://raw.githubusercontent.com/camphor-/status/master/camphor_logo.svg
   name: CAMPHOR- Status
+  apiBaseUrl: https://api.github.com
   introTitle: "**CAMPHOR- Status** ではCAMPHOR-が運営しているサービスの状態をチェックしています。"
   introMessage: 
 notifications:
