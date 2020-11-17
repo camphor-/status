@@ -31,6 +31,7 @@ sites:
   - name: Registry (Internal)
     url: $SECRET_SITE
 assignees:
+  - camphor-bot
 status-website:
   cname: status.camph.net
   logoUrl: https://raw.githubusercontent.com/camphor-/status/master/camphor_logo.svg
