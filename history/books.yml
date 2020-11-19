@@ -1,7 +1,7 @@
 - url: https://books.camph.net
-- status: down
+- status: up
 - code: 200
-- responseTime: 524
-- lastUpdated: 2020-11-19T06:48:52.122Z
+- responseTime: 561
+- lastUpdated: 2020-11-19T06:56:26.251Z
 - startTime: 2020-10-23T14:15:06.785Z
 - generator: Upptime <https://github.com/upptime/upptime>
