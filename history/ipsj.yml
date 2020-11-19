@@ -1,7 +1,7 @@
 - url: http://ipsj.camph.net/
-- status: up
+- status: down
 - code: 200
-- responseTime: 1025
-- lastUpdated: 2020-11-18T23:17:05.710Z
+- responseTime: 819
+- lastUpdated: 2020-11-19T06:49:16.098Z
 - startTime: 2020-10-23T14:29:20.090Z
 - generator: Upptime <https://github.com/upptime/upptime>
