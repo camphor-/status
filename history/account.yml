@@ -1,7 +1,7 @@
 - url: https://account.camph.net
-- status: down
+- status: up
 - code: 502
-- responseTime: 558
-- lastUpdated: 2020-11-18T23:16:56.743Z
+- responseTime: 506
+- lastUpdated: 2020-11-19T06:48:54.658Z
 - startTime: 2020-10-23T14:15:08.825Z
 - generator: Upptime <https://github.com/upptime/upptime>
