@@ -57,43 +57,269 @@ https://camphor.esa.io/posts/195
 
 ## 💝 Who's using Upptime
 
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td><a href="https://github.com/koj-co"><img src="https://avatars3.githubusercontent.com/u/65495851?v=4" height="50px" alt=""/></a></td>
-          <td><a href="https://status.koj.co"><strong>Koj</strong><br><code>status.koj.co</code></a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td><a href="https://github.com/wakatime"><img src="https://avatars3.githubusercontent.com/u/4814844?v=4" height="50px" alt=""/></a></td>
-          <td><a href="https://status.wakatime.com"><strong>Wakatime</strong><br><code>status.wakatime.com</code></a></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td><a href="https://github.com/stethoscope-js"><img src="https://avatars3.githubusercontent.com/u/71249357?v=4" height="50px" alt=""/></a></td>
-          <td><a href="https://stethoscope.js.org/status/"><strong>Stethoscope</strong><br><code>stethoscope.js.org/status</code></a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<!-- start: readme-repos-list -->
+<!-- This list is auto-generated using koj-co/readme-repos-list -->
+<!-- Do not edit this list manually, your changes will be overwritten -->
+[![liamstewart23/uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F15363506%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![j0hannr/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F52762073%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![avioli/ionata.com.au-uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F524259%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://ionata.com.au)
+[![BenMagill/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F34661412%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![jsjsjsjsjsjsjsjs/uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F49901141%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![ThomasIAm/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F10333951%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.tvdn.me)
+[![fjoker/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F6489660%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![dlunch/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F1371509%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.dlunch.net/)
+[![nhammond101/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F456479%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.happypengu.in)
+[![rdp-studio/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F67402215%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![mozillazg/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F485054%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![ChuckMac/chuckmacdev-uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F1966834%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![KieranHolroyd/monitoring](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F25421864%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://monitoring.kieran.dev)
+[![Dodger77/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F255767%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![level7in/uptime.level7in.com](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F9393567%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.level7in.com)
+[![jeongsk/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F57607783%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![jonasgithub/Upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F155643%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jonasgithub.github.io/Upptime/)
+[![shamoon/mswd-upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F4887959%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.mswd.io)
+[![wtfpeter/stats](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F21058578%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://stats.pethor.eu)
+[![gikiapp/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F63689645%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![adadaptedinc/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F6840510%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![tavy315/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F6184412%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![trineedle/upptime-stickybomb](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F74759629%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![absk1317/uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F14087778%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![Starker3/uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F20905821%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![gwanryo/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F9062624%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.jmm.kr)
+[![bigwing/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F13835088%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://bigwing.github.io/upptime/)
+[![doggy0425/monitoring](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F72742954%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![phg98/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F12092302%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![codal-ayush/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F61188326%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![lightcyde/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F47458786%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.lightcyde.agency)
+[![whistlerbrad/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F12632335%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![nutriot/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F40072057%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.nutriot.com)
+[![AttractMore/uptimemonitor](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F986557%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![kong67/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F2015787%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![nfuad/uptime-check](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F24988773%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![swuecho/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F666683%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://blog.meihao.us/upptime/)
+[![jmutai/uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F12774160%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![PH4NTOMiki/uptime-checker](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F35368241%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![k-hal/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F1532352%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![gcsalzburg/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F32631912%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://designedbycave.co.uk)
+[![stijnbrysbaert/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F21146352%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://stijnbrysbaert.github.io/upptime)
+[![teslamint/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F158752%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.tmint.dev)
+[![compusam/upckmonitor](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F348724%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![SOLPLPARTY/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F37937762%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.solpl.party)
+[![Mehuge/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F99895%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://mehuge.github.io/upptime)
+[![unliar/happy-upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F14177215%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://unliar.github.io/happy-upptime)
+[![decuyperjeremie/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F5681118%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://decuyperjeremie.github.io/upptime)
+[![edbighead/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F16245796%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://edbighead.github.io/upptime)
+[![theleetax/uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F61379531%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.theleetax.com)
+[![BeeCorp/upptime-verifli](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F68553155%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://BeeCorp.github.io/upptime-verifli)
+[![cheesemarathon/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F16329132%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://cheesemarathon.github.io/upptime)
+[![JeffreyBool/githubmemory-upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F24415888%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.githubmemory.com/)
+[![zhakell/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F67196792%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://zhakell.github.io/upptime)
+[![Garagist/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F61826246%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://Garagist.github.io/upptime)
+[![HoscoHarding/P-ginasPrueba](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F56766560%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![Crstian19/Upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F21632768%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://crstian.me)
+[![tonybastienricher/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F51478222%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://tonybastienricher.github.io/upptime)
+[![silhouette88/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F15719657%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://silhouette88.github.io/upptime)
+[![empmdk/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F6612031%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.wickedcpu.com)
+[![rdpupptime/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F74958882%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://rdpupptime.github.io/upptime)
+[![chrimbo/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F6575546%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://chrimbo.github.io/upptime)
+[![David-A-James/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F8606919%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://David-A-James.github.io/upptime)
+[![FastGitORG/uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F62810231%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![ryanda/web-upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F7850459%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://ryanda.github.io/web-upptime)
+[![mexxanit/Upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F70811%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://kiralikkameracim.com)
+[![ESSS/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F1074769%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://ESSS.github.io/upptime)
+[![jeongbeom324/upptime_test](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F74699926%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jeongbeom324@gmail.com.github.io/upptime_test)
+[![mantagen/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F12934669%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://mantagen.github.io/upptime)
+[![tadacodes/tada-uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F1444318%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://tada.wtf)
+[![daaAd1/upptime-test](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F15359784%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://daaAd1.github.io/upptime-test)
+[![lefuex/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F22298544%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://lefuex.github.io/upptime)
+[![jgui1129/uptodate-sites](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F29097518%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![Linkspring/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F66222735%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.lksg.me)
+[![Taku-Yamashita/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F27942145%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://Taku-Yamashita.github.io/upptime)
+[![amblerkr/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F67187038%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.ambler.kr)
+[![godong9/gdgo](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F1950670%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://godong9.github.io/gdgo)
+[![giftcardbd/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F70586926%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://giftcardbd.github.io/status)
+[![enieber/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F7907068%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://enieber.github.io/status/)
+[![albismart/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F31440851%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.albismart.com)
+[![bigtablesystems/schoolstart-status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F64296373%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![bbonkr/uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F3590545%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.bbon.me)
+[![xosan4ever/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F10044715%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://xosan4ever.github.io/upptime)
+[![SJang1/ServerStatus](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F29011440%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://SJang1.github.io/ServerStatus)
+[![jcruse-erw/UptimeReport](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F69030709%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jcruse-erw.github.io/UptimeReport)
+[![extratone/up](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F43663476%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://extratone.github.io/up)
+[![lesce/uptimetest](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F151652%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://lesce.github.io/uptimetest)
+[![jjeaby/mew](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F32763196%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jjeaby.github.io/mew)
+[![HigherStack/higherstack-monitor](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F64578864%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://HigherStack.github.io/higherstack-monitor)
+[![GennadySpb/upptime-yandex-cloud](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F2803590%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://GennadySpb.github.io/upptime-yandex-cloud)
+[![fullprofile/status_monitor](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F20567415%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.waypath.io)
+[![ChrAlpha/upptimes](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F53332481%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.ichr.me)
+[![alexandervantrijffel/upptimemonitoring](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F994409%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://alexandervantrijffel.github.io/upptimemonitoring)
+[![logotip4ik/up-time](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F56201308%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://logotip4ik.github.io/up-time)
+[![xoff1337/xoff1337](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F58573943%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://xoff1337.github.io/xoff1337)
+[![mattradford/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F2804540%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://mattradford.github.io/upptime)
+[![ForBestClients/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F6724775%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://ivankopcik.github.io/upptime)
+[![Jolg42/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F1328733%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jolg42.github.io/upptime)
+[![aureooms/monitor](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F5165674%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://aureooms.github.io/monitor)
+[![abhiramready/status-page](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F40287643%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://abhiramready.github.io/status-page/)
+[![getfetch-io/status.getfetch.io](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F70174612%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.getfetch.io)
+[![wvdraay/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F11157658%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://wvdraay.github.io/upptime-ccmm.care)
+[![geored/test-git-actions](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F47973913%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://geored.github.io/test-git-actions)
+[![joecof/symmetrical-succotash](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F43552945%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://joecof.github.io/symmetrical-succotash)
+[![9min/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F12682061%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://9min.github.io/upptime)
+[![richardtape/ubcupptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F116946%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://richardtape.github.io/ubcupptime)
+[![SergioRugiero/UptimeDropit](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F20051327%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://SergioRugiero.github.io/UptimeDropit)
+[![koj-co/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F65495851%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.koj.co)
+[![BotSauce/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F69754536%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://botsauce.github.io/status)
+[![whereismyjetpack/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F3694886%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://whereismyjetpack.github.io/status)
+[![TECOB/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F12141937%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://tecob.github.io/status)
+[![UAL-ODIS/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F61063507%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://UAL-ODIS.github.io/uptime)
+[![jakubvanco/uptime-try](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F67695990%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jakubvanco.github.io/uptime-try)
+[![RafGamer/rafgamer-status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F25205937%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.rafgamer.pw)
+[![ffsh/uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F36672151%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.freifunk-suedholstein.de)
+[![ejiek/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F7649041%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.ejiek.com)
+[![ifsc-cacador/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F74967565%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://ifsc-cacador.github.io/status)
+[![jmitz/upTime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F378080%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jmitz.github.io/upTime)
+[![jeremywall/v2-api-status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F1005490%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jeremywall.github.io/v2-api-status)
+[![CardinalDevLab/Morty-Status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F71206262%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.schwi.me)
+[![rayriffy/uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F22584594%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.rayriffy.com)
+[![wiput1999/uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F8299278%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.wi.in.th)
+[![TomlDev/uptime-saufwaelder](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F48552168%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://tomldev.github.io/uptime-saufwaelder)
+[![wahyd4/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F836576%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.toozhao.com)
+[![aweiand/status-ifrs-osorio](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F1443817%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://aweiand.github.io/status-ifrs-osorio)
+[![Melangebox/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F74049849%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.melangebox.com)
+[![nazgu1/uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F1545613%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://nazgu1.github.io/uptime)
+[![filii-lamberti/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F62287617%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://filii-lamberti.github.io/uptime)
+[![Etienne-Schmitt/Uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F22135894%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.schmitt-etienne.fr)
+[![lincolnthedev/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F41193328%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://lincolnthedev.github.io/classi-status)
+[![Cyclize/Status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F41808935%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.cyclize.cf)
+[![TristanSchorn/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F3461274%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://TristanSchorn.github.io/status)
+[![oaojmiguel/ifsc-cacador-status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F14549975%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://oaojmiguel.github.io/ifsc-cacador-status)
+[![JonathanTreffler/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F28999431%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://JonathanTreffler.github.io/status)
+[![RYNO8/iltg-uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F35283610%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://RYNO8.github.io/iltg-uptime)
+[![justforfun-click/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F71951624%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.justforfun.click)
+[![prokerala/uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F49444039%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://prokerala.github.io/uptime)
+[![1MaddieX/conan-status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F47996003%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.conan-ai.co)
+[![delennerd/uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F15961552%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.delennerd.de)
+[![littlekud/sites-status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F63548095%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.taoky.moe)
+[![OswaldLabsOpenSource/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F21421587%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.oswaldlabs.com)
+[![Fortify-Labs/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F65604887%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.fortify.gg)
+[![sayantan300/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F62213554%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.rovelstars.ga)
+[![rodseb/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F11620540%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://rodseb.github.io/status)
+[![kyupark/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F465309%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.js.org)
+[![picchiosat/HBLink-Uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F8112062%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.hblink.it)
+[![cubi-io/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F73463162%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.cubi.so)
+[![springbeats/springbeats-uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F74774613%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.springbeats.com)
+[![FriendlyUser/uptime-check](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F13860264%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://FriendlyUser.github.io/uptime-check)
+[![victorlmneves/uptime-monitor](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F17341789%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://victorneves.dev)
+[![jacobdubail/wo-monitor](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F292745%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jacobdubail.github.io/wo-monitor)
+[![tbobm/etna-uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F16706490%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://tbobm.github.io/etna-uptime)
+[![akrantz01/status-page](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F16374390%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.krantz.dev)
+[![UnivTerbuka/online](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F70267820%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://UnivTerbuka.github.io/online)
+[![ludicroushq/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F40924967%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.ludicroushq.com)
+[![maximousblk/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F28438021%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://maximousblk.github.io/status)
+[![brianjhanson/upptime-test](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F1843073%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.brianhanson.net)
+[![cocktail-lucas/cocktail-upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F68220332%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.cocktailfunding.io)
+[![jeyraof/otzil-upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F2032880%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.otzil.com)
+[![hada-io/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F63682122%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.hada.io)
+[![fixator10/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F11073934%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.fixator10.ru)
+[![sarpaykent/uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F2204282%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.sarpaykent.com)
+[![dzoladz/uptime-status-monitor](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F10561752%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://dzoladz.github.io/uptime-status-monitor)
+[![chowdhary-org/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F68894094%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://chowdhary-org.github.io/status/)
+[![kt-chelsea/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F73645078%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://kt-chelsea.github.io/status)
+[![jiri-moc/Hexio-Services-Uptime-Monitor](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F33858853%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://jiri-moc.github.io/Hexio-Services-Uptime-Monitor)
+[![sebastianroming/status.webmonkey.io](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F200112%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.webmonkey.io)
+[![AnandChowdhary/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F2841780%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://anandchowdhary.github.io/status/)
+[![Cleverclip/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F60980904%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://cleverclip.github.io/status/)
+[![dapodix/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F74092339%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://dapodix.github.io/status)
+[![espressotutorials/et-status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F46780758%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://espressotutorials.github.io/et-status)
+[![Kleofass/Uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F4000163%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.kleofass.lv)
+[![nestdotland/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F65864058%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.nest.land)
+[![dixneuf19/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F1516762%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.dixneuf19.me)
+[![RitsuProject/ritsu-status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F72663161%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://RitsuProject.github.io/themes-status)
+[![bostondigitalio/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F64335706%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.fuelviews.com)
+[![EnsembleTravelGroup/EnsembleTravelUpptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F6980232%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.ensembletravel.com)
+[![r2fresh/chelsea](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F329343%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://r2fresh.github.io/chelsea)
+[![armand1m-development/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F63721165%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.armand1m.dev)
+[![mapeaks/mapeaks.github.io](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F63757001%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://mapeaks.github.io)
+[![arkk4/services.arkk4.com](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F55327209%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://services.arkk4.com)
+[![jtprog/status.jtprog.ru](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F8199112%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.jtprog.ru)
+[![classtinginc/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F25532257%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.classting.com)
+[![intakefoods/status.intakefoods.kr](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F15935353%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.intakefoods.kr)
+[![coinsambacom/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F69856662%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.coinsamba.com)
+[![TMShader/szlamingo-amongus](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F43723765%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://szlamingo-amongus.tmshader.me)
+[![dominion-it/uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F69636004%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://dominion-it.github.io/uptime/)
+[![AiLingGo/mew](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F63590151%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://AiLingGo.github.io/mew)
+[![fmmaia/fmAtAllUptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F74735321%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![severnbronies/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F12883946%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://severnbronies.github.io/status)
+[![hatamiarash7/MyWebSite_Status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F16325641%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.arash-hatami.ir)
+[![Cravemob/mog-status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F3124637%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://mog-status.elchronicle.io)
+[![euro/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F216262%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://euro.github.io/status)
+[![djsnipa1/cuddly-spoon](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F118037%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.github.io/upptime)
+[![Shulert/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F73318797%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.shulert.com)
+[![hhwon/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F17375667%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://pstudio.me)
+[![sundowndev/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F16480203%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://sundowndev.github.io/status)
+[![bagiduid/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F72654797%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.bagidu.id)
+[![DmitryNaum/uptime-test](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F4718192%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://DmitryNaum.github.io/uptime-test)
+[![pulibrary/uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F1827800%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![XLorPaste/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F60929237%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://upptime.xlorpaste.cn)
+[![practiceehr/practiceehr.github.io](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F74776725%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://practiceehr.github.io/practiceehr.github.io)
+[![formspark/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F64487786%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.formspark.io)
+[![rmateu/statuspage](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F879149%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.mateu.me)
+[![sherwin7/uptime_test](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F36158245%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://sherwin7.github.io/uptime_test)
+[![ton-actions/freeton-status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F67861283%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://ton-actions.github.io/freeton-status)
+[![p1ass/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F30015728%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.p1ass.com)
+[![thewilloftheshadow/utopium-status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F35580099%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.utopium.tk)
+[![clmanu75/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F26039670%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://clmanu75.github.io/clmanu75)
+[![justcopy/tem](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F45755204%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![mdyd-dev/uptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F1442324%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.platformos.com)
+[![endriu3314/urban-telegram](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F35768289%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://endriu3314.github.io/urban-telegram)
+[![camphor-/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F6093973%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.camph.net)
+[![Stompie/upptime](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F16624377%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![davide93/upme](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F3228835%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://davide93.github.io/upme)
+[![frost-linux/uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F69596365%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://frost-linux.github.io/uptime)
+[![ball-hayden/playerdata-status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F1596233%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://ball-hayden.github.io/playerdata-status)
+[![yongjunleeme/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F48748376%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![pavelloz/uptimez](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F546845%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://pavelloz.github.io/uptimez)
+[![getbooka/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F70102307%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.getbooka.app/)
+[![Wujiao233/host-upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F16509323%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://Wujiao233.github.io/host-upptime)
+[![dhduc/uptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F11469236%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://dhduc.github.io/uptime)
+[![upptime/updates](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F72692977%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://github.com/upptime/updates)
+[![BarkleyREI/ArchiTECH-upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F1929400%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.architech.network)
+[![iphysresearch/status](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F14322948%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![c0ball/Uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F41505593%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![katharostech/uptime-monitor](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F37122595%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.katharostech.com)
+[![ImMaax/uptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F40642083%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://ImMaax.github.io/uptime)
+[![huskar-org/uptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F55132110%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://huskar-org.github.io/uptime)
+[![duplaja/website-status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F20245408%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://duplaja.github.io/website-status)
+[![aloppnow/sitemonitor](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F1749194%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://aloppnow.github.io/sitemonitor)
+[![brandonstephens/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F838662%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://brandonstephens.github.io/status/)
+[![vigneshksaithal/vipatra-status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F60360863%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://vigneshksaithal.github.io/vipatra-status)
+[![MatBenfield/up](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F1188107%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://dev.thechels.uk)
+[![Okkido/status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F312146%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://Okkido.github.io/status)
+[![baealex/upptime](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F35596687%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.blex.me)
+[![M17-Project/upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F70443931%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://uptime.m17.link)
+[![butteryoon/liveseeyou](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F1392084%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://butteryoon.github.io/liveseeyou)
+[![stethoscope-js/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F71249357%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://stethoscope-js.github.io/status/)
+[![belhyun/yonsei-upptime](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F895026%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://belhyun.github.io/yonsei-upptime)
+[![mikesprague/skydark-status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F560705%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.skydark.app/)
+[![snapwiki/SnapWikiUptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F66179893%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://snapwiki.github.io/SnapWikiUptime)
+[![jgamblin/upptime](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F8428124%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://demo.upptime.js.org)
+[![eartharoid-bot/status](https://images.weserv.nl/?url=avatars3.githubusercontent.com%2Fu%2F73784129%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.eartharoid.me)
+[![mue/status](https://images.weserv.nl/?url=avatars2.githubusercontent.com%2Fu%2F58658585%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.muetab.com)
+[![humanscape/service-status](https://images.weserv.nl/?url=avatars0.githubusercontent.com%2Fu%2F38031863%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.humanscape.io)
+[![wakatime/statuspage](https://images.weserv.nl/?url=avatars1.githubusercontent.com%2Fu%2F4814844%3Fv%3D4&h=30&w=30&fit=cover&mask=circle&maxage=7d)](https://status.wakatime.com)
+<!-- end: readme-repos-list -->
 
-[You too? Open a PR!](https://github.com/koj-co/upptime/edit/master/README.md)
+## 👩‍💻 [Documentation](https://upptime.js.org)
 
-## 👩‍💻 Getting started
-
-1. Create a new repository [using this template](https://github.com/koj-co/upptime/generate)
-2. Update the [`.upptimerc.yml`](./.upptimerc.yml) file with your configuration
-3. Enable publishing the `gh-pages` branch for your status website and add a `GH_PAT`
+1. [How it works](https://upptime.js.org/docs)
+1. [Getting started](https://upptime.js.org/docs/get-started)
+1. [Configuration](https://upptime.js.org/docs/configuration)
+1. [Triggers](https://upptime.js.org/docs/triggers)
+1. [Notifications](https://upptime.js.org/docs/notifications)
+1. [Badges](https://upptime.js.org/docs/badges)
+1. [Packages](https://upptime.js.org/docs/packages)
+1. [Contributing](https://upptime.js.org/docs/contributing)
+1. [Frequently Asked Questions](https://upptime.js.org/docs/faq)
 
 ### Concepts
 
@@ -104,10 +330,10 @@ When the GitHub Actions workflow detects that one of your URLs is down, it autom
 <table>
   <tr>
     <td>
-      <img alt="Screenshot of GitHub issue" src="./assets/screenshot-issue.png">
+      <img alt="Screenshot of GitHub issue" src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-issue.png">
     </td>
     <td>
-      <img alt="Screenshot of incident page" src="./assets/screenshot-incident.png">
+      <img alt="Screenshot of incident page" src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-incident.png">
     </td>
   </tr>
 </table>
@@ -119,221 +345,21 @@ Four times per day, another workflow runs and records the response time of your 
 <table>
   <tr>
     <td>
-      <img alt="Screenshot of GitHub commits" src="./assets/screenshot-history.png">
+      <img alt="Screenshot of GitHub commits" src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-history.png">
     </td>
     <td>
-      <img alt="Screenshot of live status" src="./assets/screenshot-live-status.png">
+      <img alt="Screenshot of live status" src="https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/screenshot-live-status.png">
     </td>
   </tr>
 </table>
-
-### Configuration
-
-- [Repository](#repository)
-- [Endpoints](#endpoints)
-- [User agent](#user-agent)
-- [Notifications](#notifications)
-- [Assignees](#assignees)
-- [Branding](#branding)
-- [Intro text](#intro-text)
-- [Site deployment](#site-deployment)
-- [Internationalization](#internationalization)
-
-The [`.upptimerc.yml`](./.upptimerc.yml) file is used as the central configuration for Upptime, with this syntax:
-
-```yaml
-owner: koj-co # GitHub username
-repo: upptime # GitHub repository name
-user-agent: koj-co
-sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
-assignees: # Users to assign downtime issues (optional)
-  - AnandChowdhary
-status-website: # Status website (optional)
-  cname: upptime.js.org # Custom domain CNAME
-  name: Upptime # Status website title
-```
-
-#### Repository
-
-A GitHub repository is used as the "source of truth" for your uptime logs, and the static site uses the GitHub API and fetches data from this repository.
-
-After you've created a new repository using this template (see [Creating a repository from a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)), specify the username and repository name in the configuration:
-
-```yaml
-owner: koj-co
-repo: upptime
-```
-
-#### Endpoints
-
-You can track as many websites as you like. Add the names and URLs of your endpoints in the `sites` key:
-
-```yaml
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: DuckDuckGo
-    url: https://duckduckgo.com
-```
-
-To make `POST` requests (or any other HTTP verb), you can add the `method` key:
-
-```yaml
-sites:
-  - name: POST to Google
-    url: https://www.google.com
-    method: POST
-  - name: DELETE Example
-    url: https://example.com
-    method: DELETE
-```
-
-If you don't want to show a URL publicly, you can use repository secrets (see [Creating and storing encrypted secrets](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets)). Instead of the plain text URL, add the name of the secret prefixed with a `$` character:
-
-```yaml
-- name: Secret Site
-  url: $SECRET_SITE
-```
-
-In the above example, a secret named `SECRET_SITE` (without the `$`) is stored in the repository. Note that you'll also have to add this secret as an environment variable in each workflow file in [`.github/workflows`](./.github/workflows):
-
-```yaml
-# Example: .github/workflows/graphs.yml
-# ...
-- name: Run script
-  run: npm run graphs
-  env:
-    SECRET_SITE: ${{ secrets.SECRET_SITE }} # Add your repository secret
-```
-
-#### User agent
-
-Requests made to the GitHub API must include a valid `User-Agent` header (see [User Agent required](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#user-agent-required)). It is recommended to use your GitHub username here:
-
-```yaml
-user-agent: your-github-username
-```
-
-#### Notifications
-
-You can add services to send downtime notifications to. Currently, only Slack notifications are supported.
-
-##### Slack
-
-Use `slack` as the `type` and provide a Slack channel ID as `channel` in the configuration.
-
-```yaml
-notifications:
-  - type: slack
-    channel: C01XQ3U9M9P
-```
-
-A Slack App has to be registered and installed prior to usage, with the scope `chat:write` (see [chat.postMessage](https://api.slack.com/methods/chat.postMessage) docs), and the environment variable `SLACK_APP_ACCESS_TOKEN` should be set with the Slack Bot User OAuth Access Token. You can use GitHub Secrets to add it.
-
-#### Assignees
-
-You can add members of your team to be assigned to every downtime issue:
-
-```yaml
-assignees:
-  - AnandChowdhary
-  - CarloBadini
-```
-
-If you want particular users to be assigned per-site, you can add `assignees` under each entry in `sites`:
-
-```yaml
-sites:
-  - name: Google
-    url: https://www.google.com
-    assignees:
-      - AnandChowdhary
-```
-
-#### Branding
-
-A static website with PWA is also generated, and you can customize the logo and name in the navbar:
-
-```yaml
-status-website:
-  name: Upptime
-  logoUrl: https://example.com/image.jpg
-```
-
-If you want to add a custom domain, you can add the `cname` key:
-
-```yaml
-status-website:
-  name: Upptime
-  logoUrl: https://example.com/image.jpg
-  cname: upptime.js.org # Custom CNAME
-```
-
-#### Intro text
-
-Optionally, you can add some introductory text to the website. You can use Markdown:
-
-```yaml
-status-website:
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages.
-```
-
-#### Site deployment
-
-Because GitHub Pages does not support the default `GITHUB_TOKEN` available to workflows, you'll have to set a secret `GH_PAT` with a Personal Access Token. For more info, see: https://github.com/maxheld83/ghpages#secrets.
-
-#### Internationalization
-
-Though our status page is in English, you can use any language with Upptime by supplying the required strings. The list of all required strings is available in [`site/i18n.yml`](./site/i18n.yml), and you can add them under the `i18n` key in the configuration file:
-
-```yaml
-i18n:
-  activeIncidents: Incidentes activos
-  allSystemsOperational: Todos los sistemas están operativos
-  # ...
-```
-
-### Updating
-
-This template is updated from time to time, so you can use the [`update-template`](https://github.com/koj-co/update-template) command to sync the changes from this GitHub repository template:
-
-```bash
-npm run update-template
-```
-
-### Badges
-
-You can use the [Shields.io](https://shields.io) service with the API endpoint generated by your repository's `api` directory. For example, the URL https://raw.githubusercontent.com/koj-co/upptime/master/api/google/uptime.json has the following JSON schema:
-
-```json
-{
-  "schemaVersion": 1,
-  "label": "uptime",
-  "message": "100%",
-  "color": "brightgreen"
-}
-```
-
-This translates to this badge: ![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
-
-```md
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
-```
-
-Similarly, response time badges are available: ![Response time](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fresponse-time.json)
-
-```md
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkoj-co%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fresponse-time.json)
-```
+<!--end: docs-->
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [CAMPHOR-](https://camph.net/)
+- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 
+<!--start: logo-->
 <p align="center">
   <a href="https://koj.co">
     <img width="44" alt="Koj" src="https://kojcdn.com/v1598284251/website-v2/koj-github-footer_m089ze.svg">
@@ -342,3 +368,4 @@ Similarly, response time badges are available: ![Response time](https://img.shie
 <p align="center">
   <sub>An open source project by <a href="https://koj.co">Koj</a>. <br> <a href="https://koj.co">Furnish your home in style, for as low as CHF175/month →</a></sub>
 </p>
+<!--end: logo-->
