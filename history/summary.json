@@ -20,7 +20,7 @@
     "url": "https://account.camph.net",
     "slug": "account",
     "status": "up",
-    "uptime": "79.84%",
+    "uptime": "80.08%",
     "time": 567
   },
   {
@@ -35,17 +35,17 @@
     "name": "Blog",
     "url": "https://blog.camph.net",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 1457
+    "time": 1434
   },
   {
     "name": "TechBlog",
     "url": "https://tech.camph.net",
     "slug": "tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 1283
+    "time": 1263
   },
   {
     "name": "Calendar",
@@ -76,7 +76,7 @@
     "url": "http://ipsj.camph.net/",
     "slug": "ipsj",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "time": 734
   },
   {
@@ -84,7 +84,7 @@
     "url": "http://jinrou.camph.net",
     "slug": "jinrou",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "time": 708
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://relaym-api.camph.net/api/v3/sessions/06b7db29-b1d7-4ae7-bfdf-ddaf0f4274c3",
     "slug": "relaym-api-prod",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "time": 692
   },
   {
