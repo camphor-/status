@@ -3,25 +3,25 @@
     "name": "Website",
     "url": "https://camph.net",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.96%",
-    "time": 868
+    "status": "down",
+    "uptime": "99.94%",
+    "time": 855
   },
   {
     "name": "Books",
     "url": "https://books.camph.net",
     "slug": "books",
-    "status": "up",
-    "uptime": "99.96%",
-    "time": 570
+    "status": "down",
+    "uptime": "99.94%",
+    "time": 561
   },
   {
     "name": "Account",
     "url": "https://account.camph.net",
     "slug": "account",
-    "status": "up",
-    "uptime": "80.17%",
-    "time": 558
+    "status": "down",
+    "uptime": "80.27%",
+    "time": 550
   },
   {
     "name": "Advent",
@@ -35,17 +35,17 @@
     "name": "Blog",
     "url": "https://blog.camph.net",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.91%",
-    "time": 1408
+    "status": "down",
+    "uptime": "99.90%",
+    "time": 1387
   },
   {
     "name": "TechBlog",
     "url": "https://tech.camph.net",
     "slug": "tech-blog",
-    "status": "up",
-    "uptime": "99.91%",
-    "time": 1242
+    "status": "down",
+    "uptime": "99.90%",
+    "time": 1224
   },
   {
     "name": "Calendar",
@@ -99,16 +99,16 @@
     "name": "Relaym API Prod",
     "url": "https://relaym-api.camph.net/api/v3/sessions/06b7db29-b1d7-4ae7-bfdf-ddaf0f4274c3",
     "slug": "relaym-api-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "time": 681
+    "time": 671
   },
   {
     "name": "Registry (Internal)",
     "url": "$SECRET_SITE",
     "slug": "registry-internal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "time": 465
+    "time": 457
   }
 ]
