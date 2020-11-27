@@ -20,7 +20,7 @@
     "url": "https://account.camph.net",
     "slug": "account",
     "status": "up",
-    "uptime": "79.83%",
+    "uptime": "79.84%",
     "time": 567
   },
   {
@@ -91,9 +91,9 @@
     "name": "Python Tutorial",
     "url": "http://python-tutorial.camph.net",
     "slug": "python-tutorial",
-    "status": "down",
-    "uptime": "99.98%",
-    "time": 1269
+    "status": "up",
+    "uptime": "99.97%",
+    "time": 1266
   },
   {
     "name": "Relaym API Prod",
