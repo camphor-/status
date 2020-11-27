@@ -20,7 +20,7 @@
     "url": "https://account.camph.net",
     "slug": "account",
     "status": "up",
-    "uptime": "80.08%",
+    "uptime": "80.09%",
     "time": 567
   },
   {
@@ -35,16 +35,16 @@
     "name": "Blog",
     "url": "https://blog.camph.net",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.98%",
+    "status": "up",
+    "uptime": "99.93%",
     "time": 1434
   },
   {
     "name": "TechBlog",
     "url": "https://tech.camph.net",
     "slug": "tech-blog",
-    "status": "down",
-    "uptime": "99.98%",
+    "status": "up",
+    "uptime": "99.94%",
     "time": 1263
   },
   {
