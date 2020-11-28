@@ -3,112 +3,112 @@
     "name": "Website",
     "url": "https://camph.net",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.68%",
+    "status": "up",
+    "uptime": "99.62%",
     "time": 843
   },
   {
     "name": "Books",
     "url": "https://books.camph.net",
     "slug": "books",
-    "status": "down",
-    "uptime": "99.68%",
-    "time": 553
+    "status": "up",
+    "uptime": "99.63%",
+    "time": 556
   },
   {
     "name": "Account",
     "url": "https://account.camph.net",
     "slug": "account",
-    "status": "down",
-    "uptime": "80.06%",
+    "status": "up",
+    "uptime": "80.02%",
     "time": 542
   },
   {
     "name": "Advent",
     "url": "https://advent.camph.net",
     "slug": "advent",
-    "status": "down",
-    "uptime": "99.96%",
-    "time": 967
+    "status": "up",
+    "uptime": "99.90%",
+    "time": 968
   },
   {
     "name": "Blog",
     "url": "https://blog.camph.net",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.64%",
-    "time": 1366
+    "status": "up",
+    "uptime": "99.58%",
+    "time": 1368
   },
   {
     "name": "TechBlog",
     "url": "https://tech.camph.net",
     "slug": "tech-blog",
-    "status": "down",
-    "uptime": "99.64%",
-    "time": 1206
+    "status": "up",
+    "uptime": "99.59%",
+    "time": 1204
   },
   {
     "name": "Calendar",
     "url": "https://cal.camph.net",
     "slug": "calendar",
-    "status": "down",
-    "uptime": "99.96%",
-    "time": 540
+    "status": "up",
+    "uptime": "99.91%",
+    "time": 541
   },
   {
     "name": "Feeds",
     "url": "https://feeds.camph.net/public/feeds.json",
     "slug": "feeds",
-    "status": "down",
-    "uptime": "99.96%",
-    "time": 810
+    "status": "up",
+    "uptime": "99.91%",
+    "time": 811
   },
   {
     "name": "House",
     "url": "https://house.camph.net",
     "slug": "house",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 545
+    "time": 547
   },
   {
     "name": "IPSJ",
     "url": "http://ipsj.camph.net/",
     "slug": "ipsj",
-    "status": "down",
-    "uptime": "99.96%",
-    "time": 715
+    "status": "up",
+    "uptime": "99.91%",
+    "time": 718
   },
   {
     "name": "Jinrou",
     "url": "http://jinrou.camph.net",
     "slug": "jinrou",
-    "status": "down",
-    "uptime": "99.96%",
-    "time": 691
+    "status": "up",
+    "uptime": "99.91%",
+    "time": 695
   },
   {
     "name": "Python Tutorial",
     "url": "http://python-tutorial.camph.net",
     "slug": "python-tutorial",
-    "status": "down",
-    "uptime": "99.95%",
-    "time": 1233
+    "status": "up",
+    "uptime": "99.90%",
+    "time": 1238
   },
   {
     "name": "Relaym API Prod",
     "url": "https://relaym-api.camph.net/api/v3/sessions/06b7db29-b1d7-4ae7-bfdf-ddaf0f4274c3",
     "slug": "relaym-api-prod",
-    "status": "down",
-    "uptime": "99.70%",
-    "time": 661
+    "status": "up",
+    "uptime": "99.65%",
+    "time": 666
   },
   {
     "name": "Registry (Internal)",
     "url": "$SECRET_SITE",
     "slug": "registry-internal",
-    "status": "down",
-    "uptime": "99.70%",
-    "time": 449
+    "status": "up",
+    "uptime": "99.65%",
+    "time": 451
   }
 ]
