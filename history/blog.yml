@@ -1,7 +1,7 @@
 url: https://blog.camph.net
-status: up
-code: 200
-responseTime: 1311
-lastUpdated: 2021-02-27T23:16:20.307Z
+status: down
+code: 500
+responseTime: 556
+lastUpdated: 2021-02-28T14:23:13.656Z
 startTime: Fri Oct 23 2020 14:15:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
