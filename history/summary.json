@@ -4,11 +4,11 @@
     "url": "https://camph.net",
     "icon": "https://favicons.githubusercontent.com/camph.net",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 794,
     "timeDay": 639,
@@ -16,6 +16,7 @@
     "timeMonth": 744,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2022-01-10": 5,
       "2021-10-09": 23,
       "2021-09-27": 16
     }
@@ -25,11 +26,11 @@
     "url": "https://books.camph.net",
     "icon": "https://favicons.githubusercontent.com/books.camph.net",
     "slug": "books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 518,
     "timeDay": 399,
@@ -37,6 +38,7 @@
     "timeMonth": 467,
     "timeYear": 488,
     "dailyMinutesDown": {
+      "2022-01-10": 4,
       "2021-10-09": 23,
       "2021-09-27": 16
     }
@@ -46,18 +48,19 @@
     "url": "https://account.camph.net",
     "icon": "https://favicons.githubusercontent.com/account.camph.net",
     "slug": "account",
-    "status": "up",
+    "status": "down",
     "uptime": "98.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 487,
     "timeDay": 439,
     "timeWeek": 517,
     "timeMonth": 455,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2022-01-10": 4,
       "2021-10-09": 23
     }
   },
@@ -66,11 +69,11 @@
     "url": "https://advent.camph.net",
     "icon": "https://favicons.githubusercontent.com/advent.camph.net",
     "slug": "advent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 960,
     "timeDay": 827,
@@ -78,6 +81,7 @@
     "timeMonth": 913,
     "timeYear": 938,
     "dailyMinutesDown": {
+      "2022-01-10": 2,
       "2021-10-09": 23
     }
   },
@@ -86,10 +90,10 @@
     "url": "https://blog.camph.net",
     "icon": "https://favicons.githubusercontent.com/blog.camph.net",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1435,
@@ -98,6 +102,7 @@
     "timeMonth": 1535,
     "timeYear": 1416,
     "dailyMinutesDown": {
+      "2022-01-10": 2,
       "2021-10-09": 23,
       "2021-02-28": 11
     }
@@ -107,10 +112,10 @@
     "url": "https://tech.camph.net",
     "icon": "https://favicons.githubusercontent.com/tech.camph.net",
     "slug": "tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1346,
@@ -119,6 +124,7 @@
     "timeMonth": 1284,
     "timeYear": 1356,
     "dailyMinutesDown": {
+      "2022-01-10": 1,
       "2021-10-09": 23
     }
   },
@@ -266,7 +272,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "registry-internal",
     "status": "up",
-    "uptime": "90.50%",
+    "uptime": "90.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
