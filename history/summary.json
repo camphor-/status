@@ -4,11 +4,11 @@
     "url": "https://camph.net",
     "icon": "https://favicons.githubusercontent.com/camph.net",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 769,
     "timeDay": 804,
@@ -16,7 +16,7 @@
     "timeMonth": 777,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2022-04-17": 1,
+      "2022-04-17": 20,
       "2021-10-09": 23,
       "2021-09-27": 16
     }
@@ -28,9 +28,9 @@
     "slug": "books",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.88%",
     "time": 495,
     "timeDay": 507,
@@ -38,7 +38,7 @@
     "timeMonth": 478,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2022-04-17": 10,
+      "2022-04-17": 29,
       "2022-01-11": 115,
       "2022-01-10": 441,
       "2021-10-09": 23,
@@ -51,10 +51,10 @@
     "icon": "https://favicons.githubusercontent.com/account.camph.net",
     "slug": "account",
     "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "98.68%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 471,
     "timeDay": 502,
@@ -62,7 +62,7 @@
     "timeMonth": 483,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2022-04-17": 10,
+      "2022-04-17": 28,
       "2021-10-09": 23
     }
   },
@@ -73,9 +73,9 @@
     "slug": "advent",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 951,
     "timeDay": 951,
@@ -83,7 +83,7 @@
     "timeMonth": 969,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2022-04-17": 9,
+      "2022-04-17": 28,
       "2021-10-09": 23
     }
   },
@@ -93,10 +93,10 @@
     "icon": "https://favicons.githubusercontent.com/blog.camph.net",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1437,
     "timeDay": 1904,
@@ -104,7 +104,7 @@
     "timeMonth": 1598,
     "timeYear": 1428,
     "dailyMinutesDown": {
-      "2022-04-17": 9,
+      "2022-04-17": 27,
       "2021-10-09": 23
     }
   },
@@ -115,9 +115,9 @@
     "slug": "tech-blog",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1346,
     "timeDay": 1026,
@@ -125,7 +125,7 @@
     "timeMonth": 1312,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2022-04-17": 8,
+      "2022-04-17": 27,
       "2021-10-09": 23
     }
   },
@@ -136,9 +136,9 @@
     "slug": "calendar",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 469,
     "timeDay": 510,
@@ -146,7 +146,7 @@
     "timeMonth": 468,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-04-17": 8,
+      "2022-04-17": 26,
       "2021-10-09": 23
     }
   },
@@ -157,9 +157,9 @@
     "slug": "feeds",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 781,
     "timeDay": 798,
@@ -167,7 +167,7 @@
     "timeMonth": 898,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2022-04-17": 7,
+      "2022-04-17": 26,
       "2021-10-09": 23
     }
   },
@@ -177,10 +177,10 @@
     "icon": "https://favicons.githubusercontent.com/house.camph.net",
     "slug": "house",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 468,
     "timeDay": 474,
@@ -188,7 +188,7 @@
     "timeMonth": 461,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-04-17": 7,
+      "2022-04-17": 25,
       "2021-10-09": 23
     }
   },
@@ -199,9 +199,9 @@
     "slug": "ipsj",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 750,
     "timeDay": 802,
@@ -209,7 +209,7 @@
     "timeMonth": 757,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2022-04-17": 5
+      "2022-04-17": 24
     }
   },
   {
@@ -219,9 +219,9 @@
     "slug": "jinrou",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 751,
     "timeDay": 772,
@@ -229,7 +229,7 @@
     "timeMonth": 742,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2022-04-17": 4
+      "2022-04-17": 22
     }
   },
   {
@@ -237,19 +237,19 @@
     "url": "http://python-tutorial.camph.net",
     "icon": "https://favicons.githubusercontent.com/python-tutorial.camph.net",
     "slug": "python-tutorial",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
-    "time": 1272,
-    "timeDay": 1392,
-    "timeWeek": 1201,
-    "timeMonth": 1211,
-    "timeYear": 1211,
+    "time": 1327,
+    "timeDay": 15266,
+    "timeWeek": 4693,
+    "timeMonth": 2032,
+    "timeYear": 1287,
     "dailyMinutesDown": {
-      "2022-04-17": 2,
+      "2022-04-17": 18,
       "2022-03-24": 87
     }
   },
@@ -259,18 +259,18 @@
     "icon": "https://favicons.githubusercontent.com/relaym-api.camph.net",
     "slug": "relaym-api-prod",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.91%",
     "time": 611,
     "timeDay": 603,
     "timeWeek": 595,
     "timeMonth": 604,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2022-04-17": 2,
+      "2022-04-17": 20,
       "2022-03-08": 23,
       "2021-11-16": 26,
       "2021-05-12": 375,
@@ -282,19 +282,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "registry-internal",
-    "status": "down",
+    "status": "up",
     "uptime": "92.21%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "88.49%",
-    "time": 799,
-    "timeDay": 1532,
-    "timeWeek": 1525,
-    "timeMonth": 1523,
-    "timeYear": 885,
+    "time": 851,
+    "timeDay": 14033,
+    "timeWeek": 4651,
+    "timeMonth": 2305,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2022-04-17": 1,
+      "2022-04-17": 18,
       "2021-12-04": 33,
       "2021-10-10": 647,
       "2021-10-09": 1440,
@@ -348,9 +348,9 @@
     "slug": "grafana",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 730,
     "timeDay": 767,
@@ -358,7 +358,7 @@
     "timeMonth": 726,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2022-04-17": 1
+      "2022-04-17": 19
     }
   }
 ]
