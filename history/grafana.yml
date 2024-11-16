@@ -1,7 +1,7 @@
 url: https://grafana.camph.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-16T14:35:03.802Z
+status: up
+code: 200
+responseTime: 932
+lastUpdated: 2024-11-16T18:40:42.126Z
 startTime: 2020-12-31T06:39:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
