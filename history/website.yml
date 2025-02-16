@@ -1,7 +1,7 @@
 url: https://camph.net
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2025-02-16T05:49:36.534Z
+status: down
+code: 503
+responseTime: 726
+lastUpdated: 2025-02-16T06:29:44.578Z
 startTime: 2020-10-23T14:15:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
